@@ -1,2 +1,2 @@
-# Bi-assignment
-Bi assignment
+# Bi-project
+Bi project
